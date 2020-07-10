@@ -1,7 +1,7 @@
 curtos-cli
 ==========
 
-CLI for curtos.pt
+A cli for curtos.pt
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/curtos-cli.svg)](https://npmjs.org/package/curtos-cli)
@@ -10,13 +10,12 @@ CLI for curtos.pt
 [![License](https://img.shields.io/npm/l/curtos-cli.svg)](https://github.com/lmribeiro/curtos-cli/blob/master/package.json)
 
 <!-- toc -->
-# Usage
+### Usage
 
 curtos [COMMAND]
 <!-- usage -->
-# Commands
+### Commands
 
-help   display help for curtos
-
-short  get a short link from curtos.pt for the given target 
+ - help:   display help for curtos
+ - short:  get a short link from curtos.pt for the given target 
 <!-- commands -->
