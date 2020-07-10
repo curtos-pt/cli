@@ -1,10 +1,10 @@
 {
   "name": "curtos-cli",
-  "description": "CLI for curtos.pt",
-  "version": "0.0.0",
+  "description": "curtos-cli: a simple command line interface for curtos.pt",
+  "version": "0.0.1",
   "author": "Luís Ribeiro @lmribeiro",
   "bin": {
-    "curtos-cli": "./bin/run"
+    "curtos": "./bin/run"
   },
   "bugs": "https://github.com/lmribeiro/curtos-cli/issues",
   "dependencies": {
@@ -52,7 +52,7 @@
   "main": "lib/index.js",
   "oclif": {
     "commands": "./lib/commands",
-    "bin": "curtos-cli",
+    "bin": "curtos",
     "plugins": [
       "@oclif/plugin-help"
     ]

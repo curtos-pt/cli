@@ -11,6 +11,12 @@ CLI for curtos.pt
 
 <!-- toc -->
 # Usage
+
+curtos [COMMAND]
 <!-- usage -->
 # Commands
+
+help   display help for curtos
+
+short  get a short link from curtos.pt for the given target 
 <!-- commands -->
