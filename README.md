@@ -28,8 +28,6 @@ USAGE
 <!-- usagestop -->
 ### Commands
 
- - help:   display help for curtos
- - short:  get a short link from curtos.pt for the given target 
 <!-- commands -->
 * [`curtos create`](#curtos-create)
 * [`curtos delete`](#curtos-delete)
