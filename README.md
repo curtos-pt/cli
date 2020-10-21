@@ -1,5 +1,4 @@
-curtos-cli
-==========
+<img src="https://curtos.pt/img/name.svg" />
 
 A cli for curtos.pt
 
