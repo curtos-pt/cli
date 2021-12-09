@@ -19,7 +19,7 @@ $ npm install -g curtos-cli
 $ curtos COMMAND
 running command...
 $ curtos (-v|--version|version)
-curtos-cli/1.0.0 darwin-x64 node-v10.20.1
+curtos-cli/1.0.1 darwin-x64 node-v16.3.0
 $ curtos --help [COMMAND]
 USAGE
   $ curtos COMMAND
@@ -38,6 +38,8 @@ USAGE
 get a short link from curtos.pt for the given target
 
 ```
+get a short link from curtos.pt for the given target
+
 USAGE
   $ curtos create
 
@@ -46,13 +48,15 @@ OPTIONS
   -t, --target=target              target url
 ```
 
-_See code: [src/commands/create.ts](https://github.com/curtos-pt/cli/blob/v1.0.0/src/commands/create.ts)_
+_See code: [src/commands/create.ts](https://github.com/curtos-pt/cli/blob/v1.0.1/src/commands/create.ts)_
 
 ## `curtos delete`
 
 delete short link with a given code
 
 ```
+delete short link with a given code
+
 USAGE
   $ curtos delete
 
@@ -60,13 +64,15 @@ OPTIONS
   -c, --code=code  link's code
 ```
 
-_See code: [src/commands/delete.ts](https://github.com/curtos-pt/cli/blob/v1.0.0/src/commands/delete.ts)_
+_See code: [src/commands/delete.ts](https://github.com/curtos-pt/cli/blob/v1.0.1/src/commands/delete.ts)_
 
 ## `curtos help [COMMAND]`
 
 display help for curtos
 
 ```
+display help for <%= config.bin %>
+
 USAGE
   $ curtos help [COMMAND]
 

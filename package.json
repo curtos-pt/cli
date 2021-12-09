@@ -1,7 +1,7 @@
 {
   "name": "curtos-cli",
   "description": "curtos-cli: A simple command line interface for curtos.pt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Luís Ribeiro @lmribeiro",
   "bin": {
     "curtos": "./bin/run"
